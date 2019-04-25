@@ -126,10 +126,10 @@ default_permissions:
 
 
 # The name of the GitHub App. Defaults to the name specified in package.json
- name: Issues to Redmine
+  #name: Issues to Redmine
 
 # The homepage of your GitHub App.
- url: https://example.com/
+  #url: https://web-weave.com/
 
 # A description of the GitHub App.
 # description: A description of my awesome app

@@ -1,8 +1,8 @@
 {
-  "name": "github-to-redmine",
+  "name": "issues-to-redmine",
   "version": "1.0.0",
-  "description": "Send github issues to redmine",
-  "author": "Sander de Jonge <s.de.jonge@x-interactive.nl>",
+  "description": "Send issues to redmine",
+  "author": "Sander de Jonge <sander@web-weave.coml>",
   "license": "ISC",
   "repository": "https://github.com//github-to-redmine.git",
   "homepage": "https://github.com//github-to-redmine",
