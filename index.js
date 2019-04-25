@@ -13,7 +13,7 @@ module.exports = app => {
     // Insert issue into redmine
     redmine.insertIssueFromGithub(context)
 
-    const issueComment = context.issue({ body: 'Thanks for opening this issue!' })
+    const issueComment = context.issue({ body: 'Thank you for reporting this issue, it has been added to our backlog' })
     return context.github.issues.createComment(issueComment)
   })
 }
